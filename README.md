@@ -11,3 +11,8 @@ This is just a very simple web calculator using Javascript.
 https://github.com/lan05908/sound
 
 This project is a sound visualization using Javascript and other fun libraries. This project is created to let the user able to play the music they like and enjoy the visualization of it. 
+
+### Circle
+https://github.com/lan05908/circle
+
+This project is a animation of a circle using entry level of using html and Javascript. 
